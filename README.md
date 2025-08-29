@@ -5,13 +5,11 @@
 ## Folder Structure
 
 <!-- TREE_START -->
-
 ```
 ├── README.md
 ├── setup.bat
 └── update_tree.py
 ```
-
 <!-- TREE_END -->
 
 ## 🚀 Installation
